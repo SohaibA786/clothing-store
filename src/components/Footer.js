@@ -5,7 +5,7 @@ const Footer = () => {
     <div className='container mx-auto'>
       <p className='text-white text-center'>
         Copyright &copy; Ecommerce Shop 2023. All rights reserved.<br />
-        Made with 🤍 by <a className='underline' target='_blank' href='https://www.linkedin.com/in/engr-sohaib/'>Sohaib</a>
+        Made with 🤍 by <a className='underline' target='_blank' href='https://www.linkedin.com/in/engr-sohaib/'>Engr. Sohaib</a>
       </p>
     </div>
   </footer>;
